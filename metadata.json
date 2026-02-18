@@ -1,0 +1,7 @@
+{
+  "name": "Visionary Spaces",
+  "description": "An AI-powered interior design and landscaping tool that reimagines your spaces using advanced image editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
